@@ -1,0 +1,25 @@
+h1{
+    color:blue;
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#fffa00;
+}
+
+h2{
+    color:#00cf00;
+    text-align: center;
+    background-color: beige;
+}
+
+table{
+    background-color: beige;
+}
+
+ol{
+    background-color: beige;
+}
+
+body{
+    background-image:url(../images/unnamed.jpg);
+}

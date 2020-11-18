@@ -1,0 +1,25 @@
+h1{
+    color:blue;
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#fffa00;
+}
+
+h2{
+    color:#00cf00;
+    text-align: center;
+    background-color: beige;
+}
+
+h3{
+    color:brown;
+}
+
+p{
+    color:chocolate;
+}
+
+body{
+    background-image:url(../images/unnamed.jpg);
+}

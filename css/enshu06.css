@@ -1,0 +1,19 @@
+h1{
+    color:#00cf00;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impuct";
+    text-align:center;
+    background-color:#444444;
+}
+
+p{
+    background-color:yellow;
+}
+
+body{
+    background-image:url(../images/81167080-%E8%8A%B1%E6%9F%84%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%81%AE%E5%B9%BE%E4%BD%95%E5%AD%A6%E6%A8%A1%E6%A7%98.jpg);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-position: right;
+}
