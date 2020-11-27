@@ -1,0 +1,35 @@
+h1{
+    color:blue;
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#fffa00;
+}
+
+h1#kudo{
+    color:white;
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#00ff00;
+}
+
+h2{
+    color:green;
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#000000;
+}
+
+h2.gorugo{
+    color:red;
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    background-color:#000000;
+}
+
+body{
+    background-image:url(../images/unnamed.jpg);
+}
