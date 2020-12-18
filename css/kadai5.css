@@ -1,0 +1,74 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:aquamarine;
+    font-size:30px;
+}
+
+div.hondai{
+    width:1000px;
+    height:320px;
+    font-size:0px;
+    margin-top: 20px;
+}
+
+div.menu{
+    display: inline-block;
+    width:250px;
+    height:320px;
+    vertical-align: top;
+    background-color:blue;
+    margin-right: 50px;
+}
+
+
+div.menu1{
+    height:100px;
+    background-color:red;
+    font-size:30px;
+    color:white;
+}
+
+div.menu2{
+    height:100px;
+    margin-top: 10px;
+    background-color:red;
+    font-size:30px;
+    color:white;
+}
+
+div.menu3{
+    height:100px;
+    margin-top: 10px;
+    background-color:red;
+    font-size:30px;
+    color:white;
+}
+
+div.imge{
+    display: inline-block;
+    width:700px;
+    height:320px;
+    background-color: blueviolet;
+    vertical-align: top;
+    font-size:15px;
+    color:white;
+    
+}
+
+div.image{
+    height:300px;
+    background-color:hotpink;
+    font-size: 0px;font-size:30px;
+    color:white;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:black;
+    font-size:30px;
+    color:white;
+    text-align:right;
+    margin-top: 20px;
+}
