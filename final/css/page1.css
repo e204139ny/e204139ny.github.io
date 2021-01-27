@@ -1,0 +1,96 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:aquamarine;
+    font-size:30px;
+    text-align:center;
+}
+
+div.hondai{
+    width:1000px;
+    height:650px;
+    font-size:0px;
+    margin-top: 20px;
+}
+
+div.menu{
+    display: inline-block;
+    width:250px;
+    height:320px;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+
+div.menu1{
+    border:2px solid #000000;
+    height:50px;
+    font-size:30px;
+    color:blue;
+    background-color:white;
+    text-align:center;
+}
+
+div.menu2{
+    border:2px solid #000000;
+    height:50px;
+    margin-top: 10px;
+    font-size:30px;
+    color:blue;
+    background-color:white;
+    text-align:center;
+}
+
+div.menu3{
+    border:2px solid #000000;
+    height:50px;
+    margin-top: 10px;
+    font-size:30px;
+    color:blue;
+    background-color:white;
+    text-align:center;
+}
+
+div.menu4{
+    border:2px solid #000000;
+    height:50px;
+    margin-top: 10px;
+    font-size:30px;
+    color:blue;
+    background-color:white;
+    text-align:center;
+}
+
+div.imge{
+    display: inline-block;
+    width:700px;
+    height:805px;
+    background-color: blueviolet;
+    vertical-align: top;
+    font-size:25px;
+    color:white;
+    
+}
+
+div.image{
+    height:300px;
+    background-color:hotpink;
+    font-size:30px;
+    color:white;
+    text-align:center;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:black;
+    font-size:30px;
+    color:white;
+    text-align:right;
+    margin-top: 200px;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
